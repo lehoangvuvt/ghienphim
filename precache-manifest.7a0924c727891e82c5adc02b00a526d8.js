@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ghienphim/static/media/fa-regular-400.427d721b.woff"
   },
   {
-    "revision": "383200ba49d0646d9652",
-    "url": "/ghienphim/static/css/main.d3b32a8f.chunk.css"
+    "revision": "ce152af7992622c0bd85",
+    "url": "/ghienphim/static/css/main.899f9807.chunk.css"
   },
   {
     "revision": "7e1209a97874f7b87027",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/ghienphim/static/media/fa-regular-400.e6257a72.woff2"
   },
   {
-    "revision": "383200ba49d0646d9652",
-    "url": "/ghienphim/static/js/main.489b2e60.chunk.js"
+    "revision": "ce152af7992622c0bd85",
+    "url": "/ghienphim/static/js/main.a4df9274.chunk.js"
   },
   {
     "revision": "5bf145531213545e03ff41cd27df7d2b",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/ghienphim/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "121c1e31a43ae90dd9cd44fae3e913bc",
+    "revision": "ce4324a0eb8fa3da51778a7cac203ff6",
     "url": "/ghienphim/index.html"
   }
 ];
