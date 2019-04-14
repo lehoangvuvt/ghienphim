@@ -1,14 +1,14 @@
 {
-  "main.css": "/ghienphim/static/css/main.899f9807.chunk.css",
-  "main.js": "/ghienphim/static/js/main.a4df9274.chunk.js",
-  "main.js.map": "/ghienphim/static/js/main.a4df9274.chunk.js.map",
+  "main.css": "/ghienphim/static/css/main.fdf52c2c.chunk.css",
+  "main.js": "/ghienphim/static/js/main.bc6967dd.chunk.js",
+  "main.js.map": "/ghienphim/static/js/main.bc6967dd.chunk.js.map",
   "runtime~main.js": "/ghienphim/static/js/runtime~main.7e99c1d2.js",
   "runtime~main.js.map": "/ghienphim/static/js/runtime~main.7e99c1d2.js.map",
-  "static/js/2.5c4e3e9e.chunk.js": "/ghienphim/static/js/2.5c4e3e9e.chunk.js",
-  "static/js/2.5c4e3e9e.chunk.js.map": "/ghienphim/static/js/2.5c4e3e9e.chunk.js.map",
+  "static/js/2.517d5a71.chunk.js": "/ghienphim/static/js/2.517d5a71.chunk.js",
+  "static/js/2.517d5a71.chunk.js.map": "/ghienphim/static/js/2.517d5a71.chunk.js.map",
   "index.html": "/ghienphim/index.html",
-  "precache-manifest.7a0924c727891e82c5adc02b00a526d8.js": "/ghienphim/precache-manifest.7a0924c727891e82c5adc02b00a526d8.js",
+  "precache-manifest.36676224c5a6c2b29461aad1bd68d246.js": "/ghienphim/precache-manifest.36676224c5a6c2b29461aad1bd68d246.js",
   "service-worker.js": "/ghienphim/service-worker.js",
-  "static/css/main.899f9807.chunk.css.map": "/ghienphim/static/css/main.899f9807.chunk.css.map",
+  "static/css/main.fdf52c2c.chunk.css.map": "/ghienphim/static/css/main.fdf52c2c.chunk.css.map",
   "static/media/all.css": "/ghienphim/static/media/fa-solid-900.ff8d9f8a.ttf"
 }
