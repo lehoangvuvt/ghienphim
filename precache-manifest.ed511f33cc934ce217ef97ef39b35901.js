@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "98b6db59be947f563350d2284fc9ea36",
-    "url": "/ghienphim/static/media/fa-brands-400.98b6db59.ttf"
+    "revision": "427d721b86fc9c68b2e85ad42b69238c",
+    "url": "/ghienphim/static/media/fa-regular-400.427d721b.woff"
   },
   {
-    "revision": "bce8c5b2dfef80deca78",
-    "url": "/ghienphim/static/css/main.9b33d687.chunk.css"
+    "revision": "383200ba49d0646d9652",
+    "url": "/ghienphim/static/css/main.d3b32a8f.chunk.css"
   },
   {
     "revision": "7e1209a97874f7b87027",
@@ -28,6 +28,10 @@ self.__precacheManifest = [
     "url": "/ghienphim/static/media/fa-brands-400.2ef8ba34.woff"
   },
   {
+    "revision": "98b6db59be947f563350d2284fc9ea36",
+    "url": "/ghienphim/static/media/fa-brands-400.98b6db59.ttf"
+  },
+  {
     "revision": "dcce4b7fbd5e895561e18af4668265af",
     "url": "/ghienphim/static/media/fa-regular-400.dcce4b7f.eot"
   },
@@ -36,12 +40,12 @@ self.__precacheManifest = [
     "url": "/ghienphim/static/media/fa-regular-400.e6257a72.woff2"
   },
   {
-    "revision": "427d721b86fc9c68b2e85ad42b69238c",
-    "url": "/ghienphim/static/media/fa-regular-400.427d721b.woff"
+    "revision": "383200ba49d0646d9652",
+    "url": "/ghienphim/static/js/main.489b2e60.chunk.js"
   },
   {
-    "revision": "bce8c5b2dfef80deca78",
-    "url": "/ghienphim/static/js/main.eef0e41c.chunk.js"
+    "revision": "5bf145531213545e03ff41cd27df7d2b",
+    "url": "/ghienphim/static/media/fa-brands-400.5bf14553.svg"
   },
   {
     "revision": "65b9977aa23185e8964b36eddbce7a20",
@@ -68,15 +72,11 @@ self.__precacheManifest = [
     "url": "/ghienphim/static/media/fa-solid-900.ff8d9f8a.ttf"
   },
   {
-    "revision": "5bf145531213545e03ff41cd27df7d2b",
-    "url": "/ghienphim/static/media/fa-brands-400.5bf14553.svg"
-  },
-  {
     "revision": "49279363201ed19a840796e05a74a91b",
     "url": "/ghienphim/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "76efeff72cc47e226c21143d7aab2b5b",
+    "revision": "121c1e31a43ae90dd9cd44fae3e913bc",
     "url": "/ghienphim/index.html"
   }
 ];
